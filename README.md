@@ -1,5 +1,6 @@
 # 첫 번째 개인 프로젝트 FAD입니다.
-### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. 2023/02/27 ~ ing
+### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. (2023/02/27 ~ ing)
+
 
 **사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=#7F52FF"/>  
 **사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
