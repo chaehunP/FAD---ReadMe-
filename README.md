@@ -6,7 +6,7 @@
 **사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
 **디자인 툴**:  <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma&logoColor=#F24E1E"/>
 
->**피그마를 이용하여 다음과 같이 디자인했습니다.**
+>**다음 디자인은 개발 상황에 따라 유동적으로 변할 수 있습니다.**
 
 ---
 |<img width="23.5%" src="https://user-images.githubusercontent.com/95847909/221122476-0741bdab-cdaa-403e-a264-3703b4f14923.png"/>
@@ -23,7 +23,8 @@
 2023/02/28: 메인화면 프로토타입 완료   
 2023/03/02: 웹뷰 backButton 이벤트 처리 구현 중    
 2023/03/03: 웹뷰 backButton 이벤트 처리 완료   
-2023/03/04: 웹뷰 타이틀바 홈화면 바로가기, 전원 버튼 구현 완료
+2023/03/04: 웹뷰 타이틀바 홈화면 바로가기, 전원 버튼 구현 완료   
+2023/03/05: Splash 화면 클릭 시 메인화면 진입 구현 완료, Toolbar text 색 변경 완료/메인화면 앱 설명 text 작성   
 
 
 </details>
