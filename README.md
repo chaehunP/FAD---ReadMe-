@@ -1,11 +1,11 @@
 # 첫 번째 개인 프로젝트 FAD입니다.
 ### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. (2023/02/27 ~ ing)
-### 개발 방향이 바뀌어 최신 IT 뉴스를 바로보고 간단한 일정을 추가할 수 있도록 구현 중입니다. 
+### 개발 방향이 바뀌어 최신 IT 뉴스를 바로보고 간단한 일정을 추가할 수 있도록 구현 중입니다.     
+---
 
-
-**사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=#7F52FF"/>  
-**사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
-**디자인 툴**:  <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma&logoColor=#F24E1E"/>
+>**사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=#7F52FF"/>  
+>**사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
+>**디자인 툴**:  <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma&logoColor=#F24E1E"/>
 
 >**다음 디자인은 개발 상황에 따라 유동적으로 변할 수 있습니다.**
 
