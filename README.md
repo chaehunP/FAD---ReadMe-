@@ -1,5 +1,5 @@
 # 첫 번째 개인 프로젝트 FAD입니다.
-### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. (2023/02/27 ~ ing)
+### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. (2023/02/27 ~ 2023/03/17)
 ### 개발 방향이 바뀌어 최신 IT 뉴스를 바로보고 간단한 일정을 추가할 수 있도록 구현 중입니다.     
 ---
 
@@ -10,15 +10,28 @@
 >**다음 디자인은 개발 상황에 따라 유동적으로 변할 수 있습니다.**
 
 ---
-|<img width="22%" src="https://user-images.githubusercontent.com/95847909/221122476-0741bdab-cdaa-403e-a264-3703b4f14923.png"/>
-<img width="23.5%" src="https://user-images.githubusercontent.com/95847909/221122611-7353797a-60d0-45fc-8b7b-d64e372842b6.png"/>
-<img width="21%" src="https://user-images.githubusercontent.com/95847909/225609305-091ca8f2-4d29-4de1-8aad-ed4b057daffe.jpg"/>
-<img width="22%" src="https://user-images.githubusercontent.com/95847909/224319128-2da4e7a0-667c-4474-a5a2-67096742ae81.png"/>
-<img width="22%" src="https://user-images.githubusercontent.com/95847909/224319213-ab5bfd0b-59be-4542-8030-b06458575389.png"/>
-<img width="23%" src="https://user-images.githubusercontent.com/95847909/224319341-944d8845-3aa1-49f0-af9d-f9333e5f2dfc.png"/>
+|<img width="26%" src="https://user-images.githubusercontent.com/95847909/221122476-0741bdab-cdaa-403e-a264-3703b4f14923.png"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/221122611-7353797a-60d0-45fc-8b7b-d64e372842b6.png"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/225609305-091ca8f2-4d29-4de1-8aad-ed4b057daffe.jpg"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319213-ab5bfd0b-59be-4542-8030-b06458575389.png"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319341-944d8845-3aa1-49f0-af9d-f9333e5f2dfc.png"/>
 ---
 
-<details>
+---
+## 완성
+|<img width="80%" src="https://user-images.githubusercontent.com/95847909/226897977-d71d6d88-88dd-42f6-874d-159b6abfed52.png"/>
+<img width="24%" src="https://user-images.githubusercontent.com/95847909/226898128-275f5895-a9c3-4312-baef-6462051fc7bd.jpg"/>
+<img width="24%" src="https://user-images.githubusercontent.com/95847909/226898048-a9a404c2-58e0-4857-aa28-e63226e62200.jpg"/>
+<img width="24%" src="https://user-images.githubusercontent.com/95847909/226898169-96569028-3916-4782-b817-2e2c8bb85de3.jpg"/>
+<img width="24%" src="https://user-images.githubusercontent.com/95847909/226898194-3a459fdd-92c3-4ed2-bcb8-42dc589072df.jpg"/>
+<img width="30%" src="https://user-images.githubusercontent.com/95847909/226898209-0a344169-2fef-449d-a26f-1437384ad451.jpg"/>
+<img width="30%" src="https://user-images.githubusercontent.com/95847909/226898224-98ea71a8-e6c1-444c-9ab7-14ee09750fde.jpg"/>
+<img width="30%" src="https://user-images.githubusercontent.com/95847909/226898350-6f2087fb-7aae-4706-a898-02b5f8e1eab6.jpg"/>
+---
+
+
+
+---
 <summary>개발일지</summary>
 
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
@@ -37,6 +50,7 @@
 2023/03/14: 뉴스 웹뷰에서 상단의 뒤로가기 스택 기능 구현/ 하드웨어 백버튼을 누를 시 뉴스 목록으로 이동 구현, Splash Title 애니메이션 효과 적용     
 2023/03/15: 앱 회전 시 현재 보이는 화면을 유지하도록 구현, 오늘의 목표 기능 구현            
 2023/03/16: 오늘의 목표 완료 시 토스트 메세지 출력 기능 구현, 안드로이드 디벨로퍼, 코틀린랭 웹뷰 로딩 속도 개선     
+2023/03/17: 스플래쉬,메인화면,메인화면 하단 탭,Toolbar,체크박스 디자인 완료, 상태바 색상 변경, 앱 아이콘 지정 완료, 개발 끝!    
 
 
 </details>
