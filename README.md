@@ -1,24 +1,28 @@
-# 첫 번째 개인 프로젝트 FAD입니다.
+# 👨🏻‍💻첫 번째 개인 프로젝트 FAD입니다.
 ### 안드로이드 개발 시 사소하게나마 도움이 되길 바라며 만든 앱입니다. (2023/02/27 ~ 2023/03/17)
-### 개발 방향이 바뀌어 최신 IT 뉴스를 바로보고 간단한 일정을 추가할 수 있도록 구현 중입니다.     
+### 개발 방향이 바뀌어 최신 IT 뉴스를 바로보고 간단한 일정을 추가할 수 있도록 구현 중입니다. (개발완료)     
 ---
 
->**사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=#7F52FF"/>  
->**사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
->**디자인 툴**:  <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma&logoColor=#F24E1E"/>
+**사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-white?style=flat&logo=Kotlin&logoColor=#7F52FF"/>  
+**사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-white?style=flat&logo=Android Studio&logoColor=#3DDC84"/>  
+**디자인 툴**:  <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma&logoColor=#F24E1E"/>   
+<br>
 
->**다음 디자인은 개발 상황에 따라 유동적으로 변할 수 있습니다.**
-
----
-|<img width="26%" src="https://user-images.githubusercontent.com/95847909/221122476-0741bdab-cdaa-403e-a264-3703b4f14923.png"/>
-<img width="28%" src="https://user-images.githubusercontent.com/95847909/221122611-7353797a-60d0-45fc-8b7b-d64e372842b6.png"/>
-<img width="25%" src="https://user-images.githubusercontent.com/95847909/225609305-091ca8f2-4d29-4de1-8aad-ed4b057daffe.jpg"/>
-<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319213-ab5bfd0b-59be-4542-8030-b06458575389.png"/>
-<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319341-944d8845-3aa1-49f0-af9d-f9333e5f2dfc.png"/>
----
-
----
-## 완성
+## 📱앱 이름: 안드로이드 개발을 도와쥬   
+- 앱소개: 안드로이드 개발에 작은 도움이 되길 바라며 만든 앱입니다.
+- 진행기간: 2023.02.27 ~ 2023.03.17
+- 스킬: `Android Studio` `Kotlin` `Github`
+### 🛠️개발 시 사용했던 기술 및 라이브러리 
+ - Fragment 간 화면 이동은 Jetpack의 navigation 라이브러리 사용
+ - 구글 IT 뉴스 RSS 피드를 가져오는 구현을 코루틴을 이용하여 구현
+ - 오늘의 목표에 작성한 데이터는 `sharedPreferences`를 이용하여 저장
+ - 웹뷰의 로딩 속도를 개선하기 위해 캐싱 활용     
+ ### 📶서비스 내용
+ 1. 최신 IT 뉴스를 한눈에 확인해 보세요!
+ 2. 오늘의 목표를 작성하고 그 목표를 달성하기 위해 노력해 보세요!
+ 3. 안드로이드 디벨로퍼 사이트를 편하게 방문해 보세요!
+ 4. 코틀린랭 사이트를 편하게 방문해 보세요!
+### 🖥️서비스 화면
 |<img width="80%" src="https://user-images.githubusercontent.com/95847909/226897977-d71d6d88-88dd-42f6-874d-159b6abfed52.png"/>
 <img width="24%" src="https://user-images.githubusercontent.com/95847909/226898128-275f5895-a9c3-4312-baef-6462051fc7bd.jpg"/>
 <img width="24%" src="https://user-images.githubusercontent.com/95847909/226898048-a9a404c2-58e0-4857-aa28-e63226e62200.jpg"/>
@@ -29,9 +33,9 @@
 <img width="30%" src="https://user-images.githubusercontent.com/95847909/226898350-6f2087fb-7aae-4706-a898-02b5f8e1eab6.jpg"/>
 ---
 
-
-
 ---
+
+<details>
 <summary>개발일지</summary>
 
 2023/02/27: 프로젝트 생성, 피그마 앱 디자인, Splash 구현, pastel 컬러추가, 폰트 추가, Splash 타이틀 글자색 변경, 테두리 CustomView 추가   
@@ -50,4 +54,13 @@
 2023/03/15: 앱 회전 시 현재 보이는 화면을 유지하도록 구현, 오늘의 목표 기능 구현            
 2023/03/16: 오늘의 목표 완료 시 토스트 메세지 출력 기능 구현, 안드로이드 디벨로퍼, 코틀린랭 웹뷰 로딩 속도 개선     
 2023/03/17: 스플래쉬,메인화면,메인화면 하단 탭,Toolbar,체크박스 디자인 완료, 상태바 색상 변경, 앱 아이콘 지정 완료, 개발 끝!    
+</details>
+
+<details>
+<summary>디자인 원본</summary>
+|<img width="26%" src="https://user-images.githubusercontent.com/95847909/221122476-0741bdab-cdaa-403e-a264-3703b4f14923.png"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/221122611-7353797a-60d0-45fc-8b7b-d64e372842b6.png"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/225609305-091ca8f2-4d29-4de1-8aad-ed4b057daffe.jpg"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319213-ab5bfd0b-59be-4542-8030-b06458575389.png"/>
+<img width="28%" src="https://user-images.githubusercontent.com/95847909/224319341-944d8845-3aa1-49f0-af9d-f9333e5f2dfc.png"/>
 </details>
